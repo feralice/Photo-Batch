@@ -1,0 +1,22 @@
+# ninja log v5
+4	3741	6926492460279687	CMakeFiles/PhotoBatch.dir/PhotoBatch.cpp.obj	14570d3e42575239
+3930	3993	6922367189080282	lib/gtest_maind.lib	2800e657ca07248f
+2192	2848	6927523183590436	PhotoBatch.exe	9a7427038df9b74f
+12	3548	6922367184617351	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	df41951637ec10a1
+9	3014	6926429109396083	CMakeFiles/PhotoBatch.dir/ArgumentParser.cpp.obj	81ebe0ccd2c421bd
+18	2121	6927542973511416	build.ninja	2d0adf0bacb22272
+17	2985	6926429108763576	CMakeFiles/PhotoBatch.dir/Utils.cpp.obj	fefc9822dc0b7382
+9	2410	6925630728574447	Unittests/CMakeFiles/TestArgumentParser.dir/TestArgumentParser.cpp.obj	18807d1533b4e1e6
+21	597	6922366861805367	CMakeFiles/PhotoBatch.dir/Unittests/TestArgumentParser.cpp.obj	96aac235e097452c
+19	1930	6922367168483550	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	ffeb2ff70b1a96d2
+3548	3930	6922367185997068	lib/gtestd.lib	210106715c32e01b
+2411	3527	6925630737910248	Unittests/TestArgumentParser.exe	9cf81ee0c1f6ec20
+14	1592	6925630720258810	Unittests/CMakeFiles/TestArgumentParser.dir/__/ArgumentParser.cpp.obj	3a56b76b2bd6cf32
+18	1536	6922419395800933	Unittests/CMakeFiles/TestArgumentParser.dir/__/Utils.cpp.obj	c99d9ec296744c48
+7	3031	6926527904787995	CMakeFiles/PhotoBatch.dir/Mode.cpp.obj	f7aedeb98c3f6c2c
+12	3637	6926492458793425	CMakeFiles/PhotoBatch.dir/RenameMode.cpp.obj	804b6ea555c66e2a
+5	2647	6926502747082334	CMakeFiles/PhotoBatch.dir/ConvertMode.cpp.obj	3ca952a3018b76e6
+4	2191	6927523178539799	CMakeFiles/PhotoBatch.dir/ResizeMode.cpp.obj	e00db6d40e1ee94b
+12	3073	6927553008589272	CMakeFiles/PhotoBatch.dir/ScaleMode.cpp.obj	214948333435ae6a
+4	3160	6927553010042196	CMakeFiles/PhotoBatch.dir/Mode.cpp.obj	f7aedeb98c3f6c2c
+3160	4048	6927553016942286	PhotoBatch.exe	9506cb5ae2cdbae1

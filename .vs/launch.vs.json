@@ -1,0 +1,18 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "PhotoBatch.exe",
+      "name": "PhotoBatch.exe",
+      "args": [
+        "--Scale",
+        "--Folder=C:\\Users\\USER\\OneDrive\\Documentos\\LabLuby\\c++_avançado_imagens",
+        "--Filter=.jpg",
+        "--Amount=2",
+      ]
+    }
+  ]
+}
